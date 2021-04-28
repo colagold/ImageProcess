@@ -1,4 +1,5 @@
 clc;clear;
+close all;
 I=imread('lena.tiff');
 %彩色图片转化为灰度图像
 grayImg=rgb2gray(I);
