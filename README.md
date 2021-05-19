@@ -9,3 +9,4 @@
 ### 3、experiment_three:图像增强——灰度变换
 ### 4、experiment_four:图像增强——直方图变换
 ### 5、experiment_five:图像增强——空域滤波
+### 6、experiment_six：图像的傅立叶变换
