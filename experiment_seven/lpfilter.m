@@ -1,7 +1,6 @@
 function [H,D] = lpfilter( type,M,N,D0,n)
 %lpfilter computes frequency domin lowpass filters
 %H creates the transfer function of a lowpass filter
-
 %use function dftuv to set up the meshgrid arrays needed for computing 
 %the required distances
 [U,V]=dftuv(M,N);
