@@ -12,3 +12,4 @@
 ### 6、experiment_six：图像的傅立叶变换
 ### 7、experiment_seven :频域滤波
 ### 8、experiment_eight：彩色图像处理
+### 9、experiment_nine：图像分割
